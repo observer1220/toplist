@@ -4,10 +4,10 @@ Allow: /archives/
 Allow: /categories/
 Allow: /tags/
 Allow: /about/
-Disallow: /vendors/
-Disallow: /js/
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /fancybox/
+Allow: /vendors/
+Allow: /js/
+Allow: /css/
+Allow: /fonts/
+Allow: /fancybox/
 Sitemap: https://observer1220.github.io/toplist/sitemap.xml
-
+Sitemap: https://observer1220.github.io/toplist/baidu_sitemap.xml
