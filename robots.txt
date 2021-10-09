@@ -1,2 +1,1 @@
 User-agent: *
-Sitemap: https://observer1220.github.io/toplist/sitemap.xml,https://observer1220.github.io/toplist/baidu_sitemap.xml
