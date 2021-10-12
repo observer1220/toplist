@@ -123,6 +123,13 @@
   </url>
   
   <url>
+    <loc>https://observer1220.github.io/toplist/tags/%E6%84%9B%E4%B8%8A%E6%96%B0%E9%AE%AE/</loc>
+    <lastmod>2021-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://observer1220.github.io/toplist/tags/%E9%9B%A8%E6%B4%8B%E5%B7%A5%E5%9D%8A/</loc>
     <lastmod>2021-10-12</lastmod>
     <changefreq>daily</changefreq>
@@ -137,21 +144,7 @@
   </url>
   
   <url>
-    <loc>https://observer1220.github.io/toplist/tags/%E6%84%9B%E4%B8%8A%E6%96%B0%E9%AE%AE/</loc>
-    <lastmod>2021-10-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://observer1220.github.io/toplist/tags/%E5%A4%8F%E6%99%AE%E9%9C%87%E6%97%A6%E7%94%9F%E6%B4%BB3C/</loc>
-    <lastmod>2021-10-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://observer1220.github.io/toplist/tags/%E5%AE%B6%E6%A8%82%E7%A6%8F/</loc>
     <lastmod>2021-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -173,6 +166,13 @@
   
   <url>
     <loc>https://observer1220.github.io/toplist/tags/C-age/</loc>
+    <lastmod>2021-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/tags/%E5%AE%B6%E6%A8%82%E7%A6%8F/</loc>
     <lastmod>2021-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -251,13 +251,6 @@
   </url>
   
   <url>
-    <loc>https://observer1220.github.io/toplist/categories/grocery/</loc>
-    <lastmod>2021-10-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://observer1220.github.io/toplist/categories/%E7%8F%A0%E5%AF%B6%E9%A6%96%E9%A3%BE/</loc>
     <lastmod>2021-10-12</lastmod>
     <changefreq>daily</changefreq>
@@ -266,6 +259,13 @@
   
   <url>
     <loc>https://observer1220.github.io/toplist/categories/mens-clothes/</loc>
+    <lastmod>2021-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/categories/grocery/</loc>
     <lastmod>2021-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
