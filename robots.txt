@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: /sitemap.xml,/baidu_sitemap.xml
