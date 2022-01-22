@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://observer1220.github.io/toplist/clean/2590699820/</loc>
+    <loc>https://observer1220.github.io/toplist/nutritional-supplement/3476416473/</loc>
     
     <lastmod>2022-01-22</lastmod>
     
   </url>
   
   <url>
-    <loc>https://observer1220.github.io/toplist/25.%E4%BA%94%E5%A4%A7%E3%80%90%E7%9B%8A%E7%94%9F%E8%8F%8C%E3%80%91%E6%8E%A8%E8%96%A6%E7%94%A2%E5%93%81.html</loc>
+    <loc>https://observer1220.github.io/toplist/clean/2590699820/</loc>
     
     <lastmod>2022-01-22</lastmod>
     
@@ -780,6 +780,41 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://observer1220.github.io/toplist/tags/%E7%9B%8A%E7%94%9F%E8%8F%8C/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/tags/NutriClean/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/tags/%E8%81%AF%E8%8F%AF%E9%A3%9F%E5%93%81/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/tags/%E5%8F%B0%E5%A1%91%E7%94%9F%E9%86%AB/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/tags/%E5%A8%98%E5%AE%B6/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -868,6 +903,13 @@
   
   <url>
     <loc>https://observer1220.github.io/toplist/categories/clean/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/categories/nutritional-supplement/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
