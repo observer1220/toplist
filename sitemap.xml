@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://observer1220.github.io/toplist/uncategorized/3132571438/</loc>
+    <loc>https://observer1220.github.io/toplist/travel/3132571438/</loc>
     
     <lastmod>2022-01-31</lastmod>
     
@@ -987,6 +987,13 @@
   
   <url>
     <loc>https://observer1220.github.io/toplist/categories/books/</loc>
+    <lastmod>2022-01-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/categories/travel/</loc>
     <lastmod>2022-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
