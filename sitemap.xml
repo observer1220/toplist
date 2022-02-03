@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://observer1220.github.io/toplist/30.%E3%80%90%E7%8D%A8%E5%AE%B6%E4%BB%A3%E7%90%86%E3%80%91%E6%B1%80%E8%98%AD%E6%96%BDTimeless-Prescription.html</loc>
+    <loc>https://observer1220.github.io/toplist/skincare/13728158/</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -899,6 +899,27 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://observer1220.github.io/toplist/tags/%E6%B1%80%E8%98%AD%E6%96%BD/</loc>
+    <lastmod>2022-02-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/tags/Timeless-Prescription/</loc>
+    <lastmod>2022-02-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/tags/%E8%82%8C%E8%86%9A%E4%BF%9D%E9%A4%8A/</loc>
+    <lastmod>2022-02-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -1008,6 +1029,13 @@
   
   <url>
     <loc>https://observer1220.github.io/toplist/categories/travel/</loc>
+    <lastmod>2022-02-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://observer1220.github.io/toplist/categories/skincare/</loc>
     <lastmod>2022-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
